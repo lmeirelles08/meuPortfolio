@@ -18,7 +18,7 @@ html,body{
     width:20%;
     height: 100%;
     position: fixed;
-    background-color: #512679;
+    background-color: #292e2a;
 }
 
 .sidebar-pos{
@@ -31,7 +31,7 @@ html,body{
 
 .img-sidebar img{
     width: 80%;
-    border:8px solid #62318e;
+    border:8px solid black;
     border-radius: 50%;
 }
 
@@ -77,7 +77,7 @@ section.descricao h2{
 section.descricao h2 > span,
 section.descricao h3 > span
 {
-    color:  #62318e;
+    color:  #292e2a;
 }
 
 section.descricao h3{
@@ -87,7 +87,7 @@ section.descricao h3{
 }
 
 section.descricao p{
-    color:#6c757d;
+    color:#292e2a;
     font-size:20px;
     margin-top:40px;
 }
@@ -99,7 +99,7 @@ section.descricao p{
 .icons-social a{
     text-decoration:none;
     color: white;
-    background-color: gray;
+    background-color: #292e2a;
     width:40px;
     height:40px;
     border-radius:20px;
