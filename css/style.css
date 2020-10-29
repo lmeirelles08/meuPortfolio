@@ -12,6 +12,7 @@ html,body{
 }
 
 
+
 .parent{
     display: flex;
 }
@@ -102,18 +103,22 @@ section.descricao p{
 .icons-social a{
     text-decoration:none;
     color: white;
-    background-color: #292e2a;
+    background-color: black;
     width:40px;
     height:40px;
-    border-radius:20px;
+    border-radius:40px;
     display: inline-block;
     margin:0 10px;
     text-align: center;
 }
 
+
+
 .icons-social i{
     line-height:40px;
 }
+
+
 
 
 @media screen and (max-width: 768px){
