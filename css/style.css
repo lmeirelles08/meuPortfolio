@@ -123,8 +123,8 @@ section.descricao p{
 
 @media screen and (max-width: 768px){
 section.descricao{
-    margin-top: 30px;
-    width: 90%;
+    margin-top: 40px;
+    width: 80%;
     max-width: 500px;
     padding: 20px;
     margin:30px auto;
